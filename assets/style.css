@@ -322,7 +322,7 @@ div#inside-sobre-mim {
     opacity: .8;
     color: var(--white-color);
     text-align: center;
-    margin: -40px 0 -30px;
+    margin: 0;
 }
 
 .my-description {
