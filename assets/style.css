@@ -29,7 +29,7 @@ section#home {
     width: 100%;
     height: 100vh;
     min-height: 800px;
-    background-image: url(../img/background-first.jpg);
+    background-image: url(../img/background-first.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
